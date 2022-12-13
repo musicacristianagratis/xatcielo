@@ -1,26 +1,20 @@
 var timePrefs = {
     "times": [
         {
-            "hour": [0, 1],
-            "background": "./index_files/img01.jpg", /* medianoche */
-            "clock": true,
-            "clock_position": ["128px", "", "", "24px"] /* TRBL */
-        },
-		        {
-            "hour": [2, 3],
+            "hour": [0, 3],
             "background": "./index_files/img02.jpg", /* medianoche */
             "clock": true,
             "clock_position": ["128px", "", "", "24px"] /* TRBL */
         },
         {
             "hour": [4, 5],
-            "background": "./index_files/img03.jpg", /* amaneciendo */
+            "background": "./index_files/img01.jpg", /* amaneciendo */
             "clock": true,
             "clock_position": ["128px", "", "", "24px"] /* TRBL */
         },
         {
             "hour": [6, 7],
-            "background": "./index_files/img04.jpg", /* amanecer */
+            "background": "./index_files/img03.jpg", /* amanecer */
             "clock": true,
             "clock_position": ["128px", "", "", "24px"] /* TRBL */
         },
